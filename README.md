@@ -1,5 +1,5 @@
-Hi there, I'm A H M Raihan! 👋
-🎓 Master of Data Science student at FAU (Friedrich-Alexander-Universität Erlangen-Nürnberg)
+Hi there, I'm A H M Raihan!
+I am pursuing Master of Data Science student at FAU (Friedrich-Alexander-Universität Erlangen-Nürnberg)
 About Me:
 I am passionate about harnessing the power of data to derive meaningful insights and solutions.
 Currently pursuing my Master's in Data Science,I possess a strong foundation in various tools and technologies crucial in the field.
