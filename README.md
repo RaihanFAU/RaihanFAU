@@ -1,6 +1,5 @@
 **About Me:**
 - I'm A H M Raihan. Currently I am pursuing a master’s in data science at Friedrich-Alexander-Universität Erlangen-Nürnberg, I am eager to bring my analytical and technical skills to support your team in creating impactful business solutions. With hands-on experience in Power BI, SQL, and data modeling, combined with a commitment to continuous learning, I am confident in my ability to contribute meaningfully to your team and set myself apart from other candidates.
-- 
 - **Skills & Expertise**
 - **Languages:** Python (NumPy, Pandas, Matplotlib, Seaborn)
 - **Data Analysis & Visualization:** Advanced Excel, Power BI
