@@ -3,7 +3,7 @@
 - **Skills & Expertise**
 - **Languages:** Python (NumPy, Pandas, Matplotlib, Seaborn)
 - **Data Analysis & Visualization:** Advanced Excel, Power BI
-- **Database:** MySQL
+- **Database:** SQL
 
 - Currently honing my skills in data preprocessing, machine learning models, and data-driven decision-making through coursework at FAU. Constantly exploring new techniques and tools to stay at the forefront of this dynamic field.
 
