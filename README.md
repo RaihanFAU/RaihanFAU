@@ -53,6 +53,6 @@ I enjoy building **data-driven systems, AI applications, and automated workflows
 
 ## 🤝 Let’s Connect  
 
-💼 LinkedIn: [Raihan](https://www.linkedin.com/in/ahmraihan/)]  
+💼 LinkedIn: [[Raihan](https://www.linkedin.com/in/ahmraihan/)]  
 
 Open to collaboration, AI/data discussions, and building real-world solutions 🚀
